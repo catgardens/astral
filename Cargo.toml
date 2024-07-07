@@ -6,3 +6,7 @@ description = "cli to interact with running neovim instances"
 homepage = "https://github.com/comfysage/astral"
 authors = ["comfysage"]
 edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.8", features = [ "derive" ] }
+clap_complete = "4.5.7"
