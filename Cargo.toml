@@ -1,0 +1,8 @@
+[package]
+name = "astral"
+version = "0.0.1"
+license = "MIT"
+description = "cli to interact with running neovim instances"
+homepage = "https://github.com/comfysage/astral"
+authors = ["comfysage"]
+edition = "2021"
